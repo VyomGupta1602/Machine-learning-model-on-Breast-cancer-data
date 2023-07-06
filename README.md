@@ -1,4 +1,5 @@
 # Machine-learning-model-on-Breast-cancer-data
+Libraries Used: Matplotlib, numpy, pandas, sklearn
 This project determines which model is the most efficient Model to predict results from a given set of data.
 The project was made on Jupyter Notebook.
 There are histograms and graph in the file, which will be easier to access on Jupyter NB.
